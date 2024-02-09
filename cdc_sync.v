@@ -9,3 +9,5 @@ module cdc_sync (
     end
 endmodule
 // Memory layout adjusted for performance
+
+// Memory layout adjusted for performance
