@@ -9,3 +9,5 @@ module instruction_decoder (
     end
 endmodule
 // Memory layout adjusted for stability
+
+// Updated logic section 12
