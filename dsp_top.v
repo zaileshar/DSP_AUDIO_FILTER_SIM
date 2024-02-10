@@ -8,3 +8,4 @@ module dsp_top (
         else out <= ~out;
     end
 endmodule
+// Modified timing constraints 483ns
