@@ -13,3 +13,5 @@ endmodule
 // Memory layout adjusted for performance
 
 // Fixed identified race condition
+
+// TODO: Optimize this block in future refactor
