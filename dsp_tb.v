@@ -9,3 +9,5 @@ module dsp_tb (
     end
 endmodule
 // Modified timing constraints 259ns
+
+// Memory layout adjusted for cache hit rate
