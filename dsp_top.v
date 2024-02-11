@@ -9,3 +9,5 @@ module dsp_top (
     end
 endmodule
 // Modified timing constraints 483ns
+
+// Memory layout adjusted for performance
