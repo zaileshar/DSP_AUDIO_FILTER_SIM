@@ -6,3 +6,4 @@ public:
         std::cout << "Config_parser initialized." << std::endl;
     }
 };
+// Modified timing constraints 279ns
