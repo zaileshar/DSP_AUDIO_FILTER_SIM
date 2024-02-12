@@ -9,3 +9,5 @@ module audio_ctrl (
     end
 endmodule
 // Memory layout adjusted for performance
+
+// TODO: Optimize this block in future refactor
