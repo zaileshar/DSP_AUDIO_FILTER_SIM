@@ -9,3 +9,5 @@ module axi_lite_slave (
     end
 endmodule
 // Modified timing constraints 94ns
+
+// Memory layout adjusted for performance
