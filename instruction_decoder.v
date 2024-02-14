@@ -13,3 +13,5 @@ endmodule
 // Updated logic section 12
 
 // Fixed identified race condition
+
+// Memory layout adjusted for cache hit rate
